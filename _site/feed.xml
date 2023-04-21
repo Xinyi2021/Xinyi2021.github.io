@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-21T09:46:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Xinyi&apos;s Physics World</title><subtitle>Academic homepage of Xinyi Zhang.</subtitle><author><name>Xinyi</name></author><entry><title type="html">About me</title><link href="http://localhost:4000/blog/2023/04/21/cv/" rel="alternate" type="text/html" title="About me" /><published>2023-04-21T00:00:00+08:00</published><updated>2023-04-21T00:00:00+08:00</updated><id>http://localhost:4000/blog/2023/04/21/cv</id><content type="html" xml:base="http://localhost:4000/blog/2023/04/21/cv/">&lt;blockquote&gt;
+  &lt;p&gt;This is Xinyi&apos;s homepage mainly for academic purpose. This page and related pages are still under construction, and more details on research and teaching will come. Stay tuned!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul class=&quot;toc&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#heading-personal-data&quot; id=&quot;markdown-toc-heading-personal-data&quot;&gt;Personal Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#heading-education&quot; id=&quot;markdown-toc-heading-education&quot;&gt;Education&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#heading-working-experience&quot; id=&quot;markdown-toc-heading-working-experience&quot;&gt;Working Experience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#heading-research-interest&quot; id=&quot;markdown-toc-heading-research-interest&quot;&gt;Research Interest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#heading-teaching-experience&quot; id=&quot;markdown-toc-heading-teaching-experience&quot;&gt;Teaching Experience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heading-personal-data&quot;&gt;Personal Data&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Name: Xinyi Zhang&lt;/li&gt;
+  &lt;li&gt;Current affiliation: Department of Physics, Hebei University&lt;/li&gt;
+  &lt;li&gt;Address: No.180 Wusi East Road, Baoding, 071002, China&lt;/li&gt;
+  &lt;li&gt;Email: zhangxy@hbu.edu.cn&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heading-education&quot;&gt;Education&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Peking University      &lt;em&gt;Sept. 2010 - July 2015&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Doctor of Philosophy&lt;/li&gt;
+      &lt;li&gt;Major: Theoretical Physics&lt;/li&gt;
+      &lt;li&gt;Advisor: Prof. Bo-Qiang Ma&lt;/li&gt;
+      &lt;li&gt;Thesis: Phenomenological studies on neutrino mixing, neutrino mass and leptogenesis&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Beijing International Studies University     &lt;em&gt;Sept. 2005 - July 2009&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Bachelor of Business Administration&lt;/li&gt;
+      &lt;li&gt;Major: Marketing&lt;/li&gt;
+      &lt;li&gt;Thesis advisor: Prof. Shuhua Yin&lt;/li&gt;
+      &lt;li&gt;Thesis: A study on how enterprises conduct effective crisis communication&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heading-working-experience&quot;&gt;Working Experience&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Institute of High Energy Physics, Chinese Academy of Sciences     &lt;em&gt;Sept. 2020 - July 2022&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Postdoc&lt;/li&gt;
+      &lt;li&gt;Host: Prof. Shun Zhou&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Peking University     &lt;em&gt;April 2018 - August 2020&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Postdoc&lt;/li&gt;
+      &lt;li&gt;Host: Prof. Bo-Qiang Ma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Shanghai Jiao Tong University     &lt;em&gt;August 2015 - June 2016&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Visitor at Prof. X.G. He&apos;s group&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Scuola Internazionale Superiore di Studi Avanzati (SISSA) &lt;em&gt;Sept. 2014 - Dec. 2014&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Visitor at Prof. S.T. Petcov&apos;s group&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heading-research-interest&quot;&gt;Research Interest&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Particle physics：neutrino, axion, physics beyond Standard Model&lt;/li&gt;
+  &lt;li&gt;Particle cosmology：baryogenesis, inflation, phase transition, gravitational wave, dark matter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heading-teaching-experience&quot;&gt;Teaching Experience&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Literatures Searching and Scientific Writing, &lt;em&gt;lecturer&lt;/em&gt;, &lt;em&gt;Spring 2023&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;General physics, &lt;em&gt;TA&lt;/em&gt;, &lt;em&gt;Spring 2014&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Methods of mathematical physics II, &lt;em&gt;TA&lt;/em&gt;, &lt;em&gt;Autumn 2013&lt;/em&gt;, &lt;em&gt;Spring 2012&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Methods of mathematical physics I, &lt;em&gt;TA&lt;/em&gt;,  &lt;em&gt;Autumn 2011&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Group theory, &lt;em&gt;TA&lt;/em&gt;, &lt;em&gt;Autumn 2012&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Xinyi</name></author><category term="about" /><category term="CV" /><summary type="html">This is Xinyi&apos;s homepage mainly for academic purpose. This page and related pages are still under construction, and more details on research and teaching will come. Stay tuned!</summary></entry></feed>
